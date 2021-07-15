@@ -1,0 +1,65 @@
+.blog-img-container {
+	text-align: center;
+}
+section.blog-container {
+	padding: 0 70px;
+}
+.blog-img {
+	width: 80%;
+	margin-bottom: 2rem;
+}
+body {
+	font-family: "Roboto", sans-serif;
+}
+h1.blog-title {
+	font-size: 3rem;
+	max-width: 70%;
+	margin: 50px 0;
+	margin-bottom: 10rem;
+}
+.blog-container p {
+	font-size: 1.4rem;
+	margin-bottom: 1rem;
+	font-weight: 300;
+}
+h2.blog-subtitle {
+	font-size: 2rem;
+	max-width: 80%;
+	margin: 30px 0;
+	margin-top: 6rem;
+}
+.blog-review {
+	padding: 0 70px;
+}
+.like {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+}
+.like i {
+	color: #f0932b;
+}
+#msg {
+	resize: none;
+	width: 100%;
+	height: 150px;
+	outline: none;
+	border: 1px solid #f0932b;
+	padding: 10px;
+	border-radius: 15px;
+}
+label[for="msg"] {
+	font-size: 1.3rem;
+	font-family: Ubuntu, monospace;
+	margin: 1rem 0;
+	display: inline-block;
+}
+form button {
+	padding: 5px;
+	background-color: #f0932b;
+	font-size: 1.3rem;
+	border: none;
+	color: white;
+	margin: 1rem 0;
+	border-radius: 8px;
+	outline: none;
+}
