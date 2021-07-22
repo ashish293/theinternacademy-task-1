@@ -2,3 +2,4 @@
 
 # theinternacademy-web-developmenttask-1
 This is a task given from the intern academy. In this task I have to create a blog website.
+<h2>Link- <a href="https://ashish293.github.io/theinternacademy-task-1/">click</a></h2>
